@@ -8,7 +8,7 @@ You can also find a python script example with docstrings -> docstrings_script_e
 
 The article have been written in July 2023.
 
-## Authors :
+## Authors
 
 * [Damien Mascheix](https://www.linkedin.com/in/damien-mascheix/) 
 * [Clément Gautier-Baudhuit](https://www.linkedin.com/in/cl%C3%A9ment-gautier-baudhuit-762b6714a/)
